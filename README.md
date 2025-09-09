@@ -54,12 +54,15 @@ REGION=us-west-2
 
 API_KEY=your-api-key-here
 SECRET_KEY=your-secret-key-here
+SECURITY_ANSWER=your-answer
 ```
+
+See below for details: 
 
 * **US Regions** → use `us-west-2` or `us-east-1`
 * **EU Regions** → use `eu-central-1` or `eu-west-1`
 * **APAC Regions** → use `ap-southeast-1` or `ap-northeast-1`
-* **Security answer** -> `<the last website you visited>`
+* **Security answer** -> `<the last website you visited, be sure to email it to the repo owner at ayba75620@gmail.com to confirm you're not a robot!>`
 
 ---
 

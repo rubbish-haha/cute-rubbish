@@ -86,4 +86,3 @@ npm run dev
 
 ---
 
-👉 Would you like me to make this more **formal and production-ready** (with badges, prerequisites, contributing guide), or keep it **lean and developer-focused** (just setup + run steps)?

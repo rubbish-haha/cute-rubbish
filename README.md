@@ -1,7 +1,5 @@
 # cute-rubbish
 
-Got it — here’s a **README template** you can use. It walks a new developer through setup: installing dependencies with `npm`, installing ML libraries with `brew`, and configuring credentials based on their region.
-
 ---
 
 # Project Setup

